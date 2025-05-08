@@ -374,3 +374,5 @@ Rough idea
 ---
 
 cmd + shift + v is the paste raw shortcut instead of taking line numbers 
+
+<https://www.cursor.com/security>
