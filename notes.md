@@ -160,3 +160,48 @@ Worktrees can be removed when you are done.
 - repo mix vs repo prompt
 
 - Stays away from cost expensive tools like codex and claude code.
+
+
+---
+
+John created a new WT for front and back end tasks
+
+---
+
+carefully read through the tasks it's creating to make sure it's doing the right things.
+
+---
+
+for window management <https://github.com/koekeishiya/yabai/wiki>
+
+
+---
+
+Kinesus 360 keyboard - the split. 
+
+-- 
+
+@ new doc and put the new tailwind docs in it. to make it use the new docs
+
+
+---
+
+Get to end of task. Hand it over to larger context model and look at it holistically.
+- John is using AI studio for this.
+
+---
+
+Create MCP for docs and allow an AI to answer questions.
+
+---
+
+John wishes AI studio had a better way to grab these files but it does have an upload file and my drive support.
+
+---
+
+cloudflare autorag feature.
+
+---
+
+
+
