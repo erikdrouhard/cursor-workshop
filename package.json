@@ -1,0 +1,9 @@
+{
+	"dependencies": {
+		"inquirer": "^12.6.0"
+	},
+	"devDependencies": {
+		"@types/node": "^22.15.17",
+		"tsx": "^4.19.4"
+	}
+}

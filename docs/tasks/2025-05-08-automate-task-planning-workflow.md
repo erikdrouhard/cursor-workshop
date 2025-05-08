@@ -1,6 +1,6 @@
 # Task: Automate and Document the Task Planning Workflow
 
-## Commit 1: feat: Create CLI/script to generate new task plan files
+## Commit 1: ✅ feat: Create CLI/script to generate new task plan files (7b3142e)
 **Description:**
 Implement a TypeScript CLI or script (e.g., `scripts/generateTaskPlan.ts`) that, when run, prompts the user for a task name and creates a new file in `docs/tasks/` named `<YYYY-MM-DD-task-name>.md`. The script should read context from `docs/PRD.md`, `docs/TECH_STACK.md`, and `notes.md` to pre-populate the file with the required structure as defined in `.cursor/rules/req-task.mdc`. Use the `fs` and `inquirer` packages for file operations and user prompts. Ensure the script is executable via `pnpm` and `tsx` as per project standards.
 
