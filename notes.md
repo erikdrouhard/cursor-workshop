@@ -64,3 +64,43 @@ mcp-shell-yeah (john is working on this)
 - ai studo vs gemini app?
 - More control with ai studio
 
+---
+Quick commit
+
+{
+    "key": "shift+cmd+s",
+    "command": "runCommands",
+    "args": {
+      "commands": [
+        {
+          "command": "git.stageAll"
+        },
+        {
+          "command": "cursor.generateGitCommitMessage"
+        },
+        {
+          "command": "git.commitAll"
+        },
+        {
+          "command": "git.sync"
+        }
+      ]
+    }
+  },
+
+
+  John has a keyboard shortcut to look through cursor chat history.
+
+- John doesnt like cursor to write configs by itself.
+-- He feels it should uses tools to do that.
+-- if it can be generated or automated it should be.
+
+- Scriptkit/raycast etc 
+-- can create a new cursor project with npx get-rules already set up..
+
+
+- cmd + shift + p view toggle editor type  to see the mdc files properly
+
+- PRDs in canvas mode in ai studio
+
+
