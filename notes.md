@@ -203,5 +203,22 @@ cloudflare autorag feature.
 
 ---
 
+## Part 2 (after lunch)
+
+- Starting to mock a front end.
+
+- Sometimes modes ignore instructions
+- Adding the "IGNORE PREVIOUS INSTRUCTIONS" to the mode helps.
+
+- eastlondoner cursor-tools 
+- <https://github.com/eastlondoner/cursor-tools>
+- John doesn't really like API keys in a tool that already uses models and he wants to control the context limit.
+- Too many MCP tools.
+- ** Smaller the context, the smaller the rule, the more predictable the results. **
+
+_MICRO MILESTONES!_
+
+move a bit slower and develop paitence and this will pay off in the long run
+
 
 
