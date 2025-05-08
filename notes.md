@@ -221,4 +221,156 @@ _MICRO MILESTONES!_
 move a bit slower and develop paitence and this will pay off in the long run
 
 
+---
 
+## tools for mocking up ideas for a front-end or trying to 'copy' a design
+
+- Chrome Single File
+-- <https://chromewebstore.google.com/detail/singlefile/mpiodijhokgodhhofbcjdecpffjipkle?hl=en>
+
+- Create a template from this website. 
+- AI with canvas in them.
+-- ChatGPT, lovable, gemini, claude etc
+-- just paste a screen shot and the html, just recreate it in the canvas.
+
+- Cleanshot screenshot tool.
+<https://cleanshot.com/>
+
+- A scrape and a screenshot.
+
+---
+
+## Other ways to use Cursor
+- .config files
+- Config project to run and install a certain thing
+- Let's them just install and fail
+
+
+-----
+
+### RepoMix
+<https://repomix.com/>
+
+Repomix CLI can colocate and concat files together as context. It's kind of like repo prompt but it's a CLI.
+- Creates a new file with the context it bundles.
+- You can have it just copy to clipboard to include in the next prompt. 
+
+- a lot are just running the tool with --help to get an idea of what can be done.
+
+- For me to investigate: repomix vs repo prompt
+
+- he's using repomix to create a gist for yabai window manager
+
+---
+
+## Tailwind config keeps failing
+
+- favorite solution is searching for github examples
+- req-ghx tool!
+- <https://github.com/johnlindquist/ghx>
+
+- <https://github.com/AgentDeskAI/browser-tools-mcp>
+- Wait for cursor to include these types of tools natively
+
+
+---
+
+{
+    "key": "ctrl+shift+alt+cmd+f3",
+    "command": "composer.addfilestocomposer"
+  },
+
+
+--
+
+"yes please continue to the end of the task without asking me for help or confirmation."
+
+---
+
+## MCPs in the background
+
+- mcp-cursor-tool-starter
+gh repo clone johnlindquist/mcp-cursor-tool-starter
+
+
+- Want the model to avoid the grepping and discovery as much as possible. 
+
+- You want that done up front.
+- so when it becomes time to do the task you can focus the model on just doing it instead of figuring out how to implement and excute. 
+
+
+---
+
+## Zoom chat comment:
+- Sounds like a good practice is to make sure to “prep” the AI and front load as much context as possible early on. Is that the right way to think about it
+- People that can just sit down and describe in great detail what the expected outcome is will be set for the future.
+- The people who build the app first and then try to describe it will get stuck and have a harder time moving forward..
+
+---
+
+- Easier to backtrack when the model is failing in a worktree. 
+
+---
+
+- Gitingest 
+- Repomix
+- Next.js templates
+
+-- 
+
+Never hesitate to throw stuff away and start over with the model. 
+
+- Very important to course correct early and often.
+
+- Clicking in the explorer and adding to the context shortcut is very useful.
+
+- Summarize the function and ask the purpose and how to refactor it for a specific use case
+
+- You want to save the agent from doing things that you know how to do or automate. 
+
+- Focusing the model helps it do better.
+
+---
+
+
+cmd + shift + p "new search editor"
+
+---
+
+- Slick tool but you need to put in your own api keys
+<https://www.task-master.dev/>
+- He thinks cursor will have this type of tool built in soon.
+
+--- 
+
+- Do a brain dump of idea via @notes mode
+- Then PRD via req-prd.mdc
+- Then make TECH_STACK doc
+- Then do mermaid diagrams?
+- Then maybe google gemini for deeper look
+- Then do man-structure.mdc to create STRUCTURE.md
+- Then "whats next" via req-next.mdc
+- Then choose task. Then req-task.mdc to plan task
+- Then make new git working tree `req-wt.mdc`
+- Then exec task with `req-exec.mdc`
+- Iterate through prompts til done
+- The PR via `req-pr.md`
+- Then merge PR and go back to main
+- Go back to "whats next" and continue
+
+----
+
+Planning → Deep Research → cursor rules and notes → Repeat
+
+(To frontload context)
+
+Then execute -> Re-evaluate  -> Go back to first loop
+
+—
+
+Rough idea
+
+
+---
+
+cmd + shift + v is the paste raw shortcut instead of taking line numbers 
