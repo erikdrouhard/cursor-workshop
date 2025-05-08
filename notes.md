@@ -105,3 +105,18 @@ Quick commit
 
 
 - Say please and thank you to the model!
+
+
+- John is generally running a braindump into notes then a PRD -> Tech stack -> Structure.
+-- Now he's ready to code.
+
+
+----
+
+
+@req-next.mdc is great for figuring out what the next steps are.
+
+
+--- 
+
+@req-task.mdc is great for figuring out what the next tasks are.
