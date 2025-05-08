@@ -133,3 +133,30 @@ Quick commit
 - Worktrees are really cool!
 -- @req-wt rule
 
+using # means recent files!
+
+- John does NOT like when cursor hand crafts config files. 
+- He wants the AI to use tools like CLIs to do that.
+- Cursor tends to get the config wrong if it codes by itself.
+
+
+- Always having a task list is good to help with the context management for John (this is a person/human task list not for the model.)
+
+- Name of the task is usually in the worktree name. So it's really isolated to the task.
+
+- John has been using Biome.js a lot.
+
+- uses AI for all the git commands and PR's 
+- Gives a really nicely formatted PR.
+
+- Code rabbit does ai generated PR reviews.
+
+- Limits the task to 5 commits!
+
+- PR request should have a test at each step a long the way.
+
+Worktrees can be removed when you are done.
+
+- repo mix vs repo prompt
+
+- Stays away from cost expensive tools like codex and claude code.
