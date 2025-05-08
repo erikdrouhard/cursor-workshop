@@ -104,3 +104,4 @@ Quick commit
 - PRDs in canvas mode in ai studio
 
 
+- Say please and thank you to the model!
