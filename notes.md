@@ -120,3 +120,16 @@ Quick commit
 --- 
 
 @req-task.mdc is great for figuring out what the next tasks are.
+
+
+-----
+
+## Git Worktrees!
+
+- Creates a completely separate directory for the branch.
+
+- Task for a worktree a  task for a branch.
+
+- Worktrees are really cool!
+-- @req-wt rule
+
